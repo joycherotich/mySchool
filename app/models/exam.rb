@@ -1,5 +1,4 @@
 class Exam < ApplicationRecord
- belongs_to :class
- has_many :users 
-
+  belongs_to :unit
+  belongs_to :user
 end
