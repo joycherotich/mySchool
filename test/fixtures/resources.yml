@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  date: 2023-04-17
-  present: false
-  user: one
+  name: MyString
+  file_url: MyString
+  unit: one
 
 two:
-  date: 2023-04-17
-  present: false
-  user: two
+  name: MyString
+  file_url: MyString
+  unit: two
