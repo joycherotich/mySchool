@@ -1,0 +1,20 @@
+.bg-dark-blue {
+    background-color: #181A33;
+    color: #fff;
+    margin-right: 1300px;
+    height: 900px;
+    width: 80px;
+    border-radius: 5px;
+  }
+  .sidebar-icon {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12px;
+  }
+  .bg-dark-blue-hover:hover {
+    background-color: #5C5EEB;
+  }
